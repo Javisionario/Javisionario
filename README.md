@@ -1,11 +1,18 @@
-# Hi there, I'm Javi 👋
-![](banner.png)
+<h1 align="center">Hi there, I'm Javi 👋</h1>
 
-Environmental and transport engineer focused on mobility, road safety, and data-driven territorial planning.
+<p align="center">
+  Environmental and transport engineer focused on mobility, road safety, 
+  and data-driven territorial planning.
+</p>
+
+<p align="center">
+  <img src="header.png" alt="Header Javi GIS" width="800">
+</p>
 
 I have advanced skills in GIS and spatial analysis, which I use to understand territorial dynamics, evaluate the impacts of mobility projects, and support data-driven decision-making. I am particularly interested in projects that enhance sustainability, safety, and resilience while making everyday travel simpler and more humane.
 
-In this profile you can find tools, scripts and examples related to GIS, mobility analysis, and data-driven planning — from QGIS workflows to Python experiments.
+In this profile you can find tools, scripts and examples related to GIS, mobility analysis, and data-driven planning, from QGIS workflows to Python experiments.
+
 
 ---
 
@@ -43,6 +50,4 @@ Outside of work, I enjoy rock climbing and the outdoors. That mix of strategy, c
 
 ## 📫 Get in touch
 
-- 💼 LinkedIn: [Javier Hernández Piris](https://www.linkedin.com/in/javierhpiris)  
- 
-If you’re working on projects related to sustainable mobility, road safety, GIS or spatial analysis, feel free to reach out — I’m always open to exchanging ideas and learning from other practitioners.
+- 💼 LinkedIn: [Javier Hernández Piris](https://www.linkedin.com/in/javierhpiris)
