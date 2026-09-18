@@ -1,50 +1,48 @@
 <h1 align="center">Hi there, I'm Javi 👋</h1>
 
 <p align="center">
-  Environmental and transport engineer focused on mobility, road safety, 
-  and data-driven territorial planning.
+  Environmental and transport engineer focused on mobility, GIS and data-driven territorial planning.
 </p>
 
 <p align="center">
   <img src="header.png" alt="Header Javi GIS" width="800">
 </p>
 
-I have advanced skills in GIS and spatial analysis, which I use to understand territorial dynamics, evaluate the impacts of mobility projects, and support data-driven decision-making. I am particularly interested in projects that enhance sustainability, safety, and resilience while making everyday travel simpler and more humane.
+I specialise in **GIS and spatial analysis**, using geospatial data to understand territorial dynamics, analyse mobility and road networks, and support data-driven decision-making.
 
-In this profile you can find tools, scripts and examples related to GIS, mobility analysis, and data-driven planning, from QGIS workflows to Python experiments.
-
+I combine **geospatial analysis, code and automation** to turn complex data into practical tools, workflows and decision-support products. Most of what you'll find here comes from real-world problems: QGIS plugins, Python utilities, spatial data workflows and interactive maps.
 
 ---
 
 ## 🧭 What I work on
 
-- Sustainable urban and mobility planning  
-- Road safety and traffic management  
-- Public space and street design  
-- Data-driven analysis and decision support for public authorities  
+- GIS, spatial analysis and linear referencing
+- Geospatial data processing and automation
+- QGIS tools, Python workflows and interactive mapping
+- Transport, mobility and road safety
 
 ---
 
 ## 🌱 I’m currently learning ...
 
-- Sharpening my Python skills for data analysis and automation  
-- Developing QGIS workflows, scripts and plugins to streamline everyday tasks  
-- Improving my software practices: cleaner code, documentation and reproducible analyses  
+- Deepening my work with **PostGIS, SQL and spatial databases**
+- Building more robust and reusable geospatial tools and plugins
+- Exploring **AI-assisted and multi-agent workflows** for technical and geospatial work
 
 ---
 
 ## 💬 Ask me about ...
 
-- QGIS workflows, spatial analysis and automation  
-- Map design and cartography for reports and presentations  
-- Mobility, road safety and accessibility analysis  
-- Sustainable urban planning and transport strategies  
+- QGIS, PyQGIS and geospatial automation
+- Spatial analysis, linear referencing and road network data
+- Mobility, traffic and road safety analysis
+- Cartography, data visualization and interactive maps
 
 ---
 
 ## 🧗‍♂️ Beyond work
 
-Outside of work, I enjoy rock climbing and the outdoors. That mix of strategy, commitment, decision-making and planning has strongly influenced how I approach projects and problem-solving.
+Outside of work, I enjoy **rock climbing, freediving, reading and the outdoors**. Climbing and diving have also shaped the way I approach problems: with preparation, focus and a healthy respect for complexity.
 
 ---
 
